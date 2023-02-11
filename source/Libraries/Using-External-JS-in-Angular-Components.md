@@ -101,3 +101,5 @@ myScriptElement: HTMLScriptElement; //this is used to create the type definition
 ```
 >Note: I have used method#4 to use swiperjs in my angular v15 project via external swiper.js file. 
 And I can say this works on most of angular versions.
+
+--> Credits: [Link](https://medium.com/@Codeible/adding-loading-and-using-javascript-in-angular-3281ea4b056b#:~:text=Adding%20JavaScript%20files%20to%20your,assets%20folder%20of%20the%20project.&text=Next%2C%20open%20the%20angular.,locate%20the%20scripts%20property%20inside.&text=json%20scrips%20property-,In%20here%2C%20place%20the%20path%20of%20each%20JavaScript%20file%20you,to%20load%20into%20the%20array.)
